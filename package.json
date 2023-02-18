@@ -1,0 +1,14 @@
+{
+  "name": "beginnerlevel",
+  "version": "1.0.0",
+  "description": "begin level cypress tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.0"
+  }
+}
